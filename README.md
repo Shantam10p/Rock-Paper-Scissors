@@ -47,6 +47,3 @@ Open index.html in your browser to start playing!
 ![image](https://github.com/user-attachments/assets/7aba5146-f1ac-4fb5-968e-f664a82f7324)
 
 
-## 📝 License
-
-MIT © [Shantam]
